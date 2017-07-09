@@ -1,0 +1,42 @@
+
+host: 127.0.0.1
+port: 4000
+
+
+timezone: Europe/Oslo
+
+# Dependencies
+markdown:       kramdown
+redcarpet:
+    extensions: ['smart']
+
+highlighter:         rouge
+fenced_code_blocks:  true
+
+gems: [jekyll-paginate]
+
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:            Dyre Haugen            
+tagline:          Reflections
+url:              http://dyrehaugen.ddns.net:81
+
+paginate:            5
+#baseurl:          /
+baseurl:          /jde
+
+
+
+
+# About/contact
+author:
+  name:           Dyre Haugen
+  url:            http://dyrehaugen.github.io/jde
+  email:          dyrehaugen@gmail.com
+
