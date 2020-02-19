@@ -29,7 +29,7 @@ url:              http://dyrehaugen.ddns.net:81/jde
 
 paginate:            5
 #baseurl:          /
-baseurl:          /jde
+baseurl:          /jde/
 
 
 
