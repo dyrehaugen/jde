@@ -1,0 +1,2 @@
+rm -rf /var/www/html/jde/*
+cp -rp _site/* /var/www/html/jde
