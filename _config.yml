@@ -13,7 +13,8 @@ redcarpet:
 highlighter:         rouge
 fenced_code_blocks:  true
 
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 # Permalinks
