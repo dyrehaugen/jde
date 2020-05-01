@@ -1,7 +1,8 @@
 
 host: 127.0.0.1
 port: 4000
-
+# Allow forwad-dated _posts !!!
+future: true  
 
 timezone: Europe/Oslo
 
@@ -30,7 +31,7 @@ url:              http://dyrehaugen.ddns.net:81/jde
 
 paginate:            5
 #baseurl:          /
-baseurl:          /jde/
+baseurl:          /jde
 
 
 
