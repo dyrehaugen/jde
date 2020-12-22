@@ -24,7 +24,7 @@ The alarm bells has finally started ringing in the 'Core of Capitalism'.
 The OECD is trying to coordinate the worrying, talking about 'A New Economic Approach'
 'Beyond Growth'.
 
-Only Yanis Varoufakis uses the term 'Capitalism' - and speaks as if some Non-Capitilistic
+Only Yanis Varoufakis uses the term 'Capitalism' - and speaks as if some Non-Capitalistic
 System really might emerge.
 Others stay away from naming 'The System' - and are more concerned about its 'stability' -
 focusing on 'resilience' - i.e. how to make Capitalism *survive* the Climate Crisis.
@@ -46,7 +46,7 @@ This hinges on the very question of whether Capitalism is possible without Growt
 Production for *Profit* is the core of Capitalism and thus *Growth*.
 'Akkumulieren, akkumulieren, dass ist Moses und die Propheten' as old Marx put it.
 
-If planetary boundaries forces growth of today's economic system to grow - it
+If planetary boundaries forces growth of today's economic system to stop - it
 will no longer be Capitalism.
 
 
