@@ -27,11 +27,12 @@ permalink:           pretty
 # Setup
 title:            Dyre Haugen            
 tagline:          Reflections
-url:              http://dyrehaugen.ddns.net:81/jde
+#url:              http://dyrehaugen.ddns.net:81/jde
+url:              http://dyrehaugen.github.io/jde
 
 paginate:            5
 #baseurl:          /
-baseurl:          /jde
+baseurl:          /jde/
 
 
 
